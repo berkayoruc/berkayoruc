@@ -21,7 +21,7 @@ I'm berkayoruc.
 - 🌱 I’m currently learning geomatics (Msc)
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [e-mail](mailto:berkayoruc0@gmail.com)
-- ⚡ Fun fact: I'm very lazy. I love to sleep.
+- ⚡ Fun fact: I'm very lazy. I love to code.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=berkayoruc&count_private=true&show_icons=true" />

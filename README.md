@@ -23,9 +23,9 @@ I'm berkayoruc.
 - 📫 How to reach me: [e-mail](mailto:berkayoruc0@gmail.com)
 - ⚡ Fun fact: I'm very lazy. I love to code.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/berkayoruc/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=berkayoruc&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/berkayoruc/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayoruc" />
 </a>

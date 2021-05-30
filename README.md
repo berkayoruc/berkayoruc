@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I'm berkayoruc.
 
-- 🔭 I’m currently working for Web frontend/backend programmer.
+- 🔭 I’m currently working as web GIS developer.
 - 🌱 I’m currently learning geomatics (Msc)
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [e-mail](mailto:berkayoruc0@gmail.com)
-- ⚡ Fun fact: I'm very lazy. I love to code.
+- ⚡ Fun fact: Love code, save world.
 
 
 **Languages and Tools:**  

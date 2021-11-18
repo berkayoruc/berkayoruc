@@ -23,7 +23,7 @@ I'm berkayoruc.
 - 📫 How to reach me: [e-mail](mailto:berkayoruc0@gmail.com)
 - ⚡ Fun fact: Love code, save world.
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=berkayoruc"%20 alt="1sahinomer1"/></p>
+<img src="https://komarev.com/ghpvc/?username=berkayoruc"%20 alt="berkayoruc"/>
 
 **Languages and Tools:**  
 

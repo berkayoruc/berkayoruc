@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm berkayoruc.
 
 - 🔭 I’m currently working as Web GIS Developer.
-- 🌱 I’m currently focusing on Swift and Flutter
+- 🌱 I’m currently focusing on Swift and SwiftUI
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [e-mail](mailto:berkayoruc0@gmail.com)
 - ⚡ Fun fact: Love code, save world.

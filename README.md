@@ -21,7 +21,7 @@ I'm berkayoruc.
 - 🌱 I’m currently focusing on Swift and SwiftUI
 - 😄 Pronouns: He/Him
 - 🗳 Check my some repositories on [organization](https://github.com/hexa-apps)
-- 📫 How to reach me: [e-mail](mailto:berkayoruc0@gmail.com)
+- 📫 How to reach me: [personal website](https://hexaapps.net/berkay)
 - ⚡ Fun fact: Love code, save world.
 
 <p><img src="https://komarev.com/ghpvc/?username=berkayoruc"%20 alt="berkayoruc"/></p>

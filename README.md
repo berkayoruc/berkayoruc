@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋 I'm Berkay!</h2>
 
 <!--
 **berkayoruc/berkayoruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkayoruc/) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@berkayoruc)
+[![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](https://www.hexaapps.net/berkay)
 
 I'm berkayoruc.
 
